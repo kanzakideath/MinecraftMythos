@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0+26.2-ryuk-restock-loop-fix",
-  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/7a770f40e3caee9c559dbac9def2f2f271d11c61/updates/baritone-fabric-26.2-latest.jar",
-  "sha256": "28a4c8c8b21904edc2292b78820a119027127602911f515a2a5ecfd2b23db30a",
+  "version": "1.17.0+26.2-safe-updater",
+  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/bc3ceacd7a25f96efe86af9e8414db7a9c963e10/updates/baritone-fabric-26.2-latest.jar",
+  "sha256": "80c0b93ad1670b32b1818459cdc85291f3759d03fc1b02f944b3a2fe6cf082dd",
   "fileName": "baritone-fabric-26.2-latest.jar"
 }
