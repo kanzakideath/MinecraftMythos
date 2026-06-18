@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0+26.2-cleararea-combat-only",
-  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/91cb77756b771ca9b79949a95c821d84cd4978b5/updates/baritone-fabric-26.2-latest.jar",
-  "sha256": "bfe7739e64c5170851ebf09a6a9a6f7a215f31779a406b6b3b3b3b364585ae5c",
+  "version": "1.17.0+26.2-creeper-kiting",
+  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/2df463bd132f7a2c91c330cb392d9363984181d2/updates/baritone-fabric-26.2-latest.jar",
+  "sha256": "67e7f792cbfad7283b204064945074301e7009052a93ee32cfe0278c49fcdb98",
   "fileName": "baritone-fabric-26.2-latest.jar"
 }
