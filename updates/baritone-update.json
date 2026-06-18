@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0+26.2-storage-restock-fix",
-  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/5a131a3fb7f1dc4aed1a9c05a5bf53fa6a36bfc2/updates/baritone-fabric-26.2-latest.jar",
-  "sha256": "b848d25b601a92079577a63dd9024b14840713c371df3a4a13a4bfcf67e61964",
+  "version": "1.17.0+26.2-persist-cleararea-selection",
+  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/ba6a4a5ecccdbbd5cff048545959d370a0564f86/updates/baritone-fabric-26.2-latest.jar",
+  "sha256": "c647c47d1d39ded5b1c25a66cb92ca16c389f078c219fb85c233a160d90b256e",
   "fileName": "baritone-fabric-26.2-latest.jar"
 }
