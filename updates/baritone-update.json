@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0+26.2-update-progress",
+  "version": "1.17.0+26.2-update-progress-pathfix",
   "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-latest.jar",
-  "sha256": "ea84aee0aafb7bea179c97fc8bbaa00f2f1231c258d30197f26778d2e8f9b5ed",
+  "sha256": "6486bd3d24b5582cf9222bfe8c317388576de79ec42310deba109f9d7595a96b",
   "fileName": "baritone-fabric-26.2-latest.jar"
 }
