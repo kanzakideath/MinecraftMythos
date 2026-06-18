@@ -1,6 +1,6 @@
 {
-  "version": "1.17.1+26.2-safe-updater",
-  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/58c397e10ca553350ec109860c391b099416b384/updates/baritone-fabric-26.2-latest.jar",
-  "sha256": "c2303b38ddc7dd46dd5d02ffa7314e040171faa4f953ac8efe004fc3c09f2a2d",
+  "version": "1.17.2+26.2-use-tools-until-break",
+  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/896549e44d826f1673a906e800bf2ad4ebeec4d4/updates/baritone-fabric-26.2-latest.jar",
+  "sha256": "3ccb3207c8f291c889ee843f0d7ec3b47e94313c913200803176f7523ec58603",
   "fileName": "baritone-fabric-26.2-latest.jar"
 }
