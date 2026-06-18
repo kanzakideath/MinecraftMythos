@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0+26.2-creeper-kiting",
-  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/2df463bd132f7a2c91c330cb392d9363984181d2/updates/baritone-fabric-26.2-latest.jar",
-  "sha256": "67e7f792cbfad7283b204064945074301e7009052a93ee32cfe0278c49fcdb98",
+  "version": "1.17.0+26.2-storage-restock-fix",
+  "url": "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/5a131a3fb7f1dc4aed1a9c05a5bf53fa6a36bfc2/updates/baritone-fabric-26.2-latest.jar",
+  "sha256": "b848d25b601a92079577a63dd9024b14840713c371df3a4a13a4bfcf67e61964",
   "fileName": "baritone-fabric-26.2-latest.jar"
 }
