@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.41-26.2-chat-material-fix/baritone-fabric-26.2-chat-material-fix-ff448eb7d023.jar",
-    "version":  "1.17.41+26.2-chat-material-fix",
-    "sha256":  "ff448eb7d0233f72488a8e99c04e9ffb168944501553f425d91b22dc6e1e83b0"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.42-26.2-autodiagnostic-beta/baritone-fabric-26.2-autodiagnostic-beta-dd8ebf2ea8ec.jar",
+    "version":  "1.17.42+26.2-autodiagnostic-beta",
+    "sha256":  "dd8ebf2ea8ecf159255d49f01258bafa9308d535db5e76418afcf7134bdca70c"
 }
