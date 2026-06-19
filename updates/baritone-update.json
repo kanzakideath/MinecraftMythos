@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.43-26.2-creative-inventory-fix/baritone-fabric-26.2-creative-inventory-fix-75e9a737186b.jar",
-    "version":  "1.17.43+26.2-creative-inventory-fix",
-    "sha256":  "75e9a737186b67144c5834c8679abc89a9ba92b17be41a1db1445b3dc7d042e5"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.44-26.2-overhead-placement-fix/baritone-fabric-26.2-overhead-placement-fix-d34dfbf5e76a.jar",
+    "version":  "1.17.44+26.2-overhead-placement-fix",
+    "sha256":  "d34dfbf5e76a277b5ef58f105a37523b9db872c6f77f915153196942215981c5"
 }
