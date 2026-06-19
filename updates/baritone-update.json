@@ -1,6 +1,6 @@
 {
-    "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.22-26.2-ryuk-startup-hotfix/baritone-fabric-26.2-ryuk-startup-hotfix-52d6ff3d9ad4.jar",
-    "version":  "1.17.22+26.2-ryuk-startup-hotfix",
-    "sha256":  "52d6ff3d9ad4c11815f72be970bfea0a1f29f700a2976e1f247b00bb1092853a"
+    "fileName": "baritone-fabric-26.2-latest.jar",
+    "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.23-26.2-modes-menu/baritone-fabric-26.2-modes-menu-260bc7757bd6.jar",
+    "version": "1.17.23+26.2-modes-menu",
+    "sha256": "260bc7757bd6513e6d0404edc97b3b6d2958e222e0422e073047d861fe4b5667"
 }
