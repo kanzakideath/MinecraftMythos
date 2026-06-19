@@ -1,6 +1,6 @@
-{
-    "version":  "1.17.15+26.2-multi-combat-inventory-restore",
-    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-multi-combat-inventory-restore-50cfbf000e87.jar",
-    "sha256":  "50cfbf000e874cadc5a2fb7f6e9eb4d203f82a699ee08af03b54bb6ee41fe1c3",
+﻿{
+    "version":  "1.17.16+26.2-disable-gameplay-hud-ui",
+    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-disable-gameplay-hud-ui-4688ae754a6e.jar",
+    "sha256":  "4688ae754a6e488ac01217253f4d17e81b02f2b63255eabceb516566842f6662",
     "fileName":  "baritone-fabric-26.2-latest.jar"
 }
