@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.17.16+26.2-disable-gameplay-hud-ui",
-    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-disable-gameplay-hud-ui-4688ae754a6e.jar",
-    "sha256":  "4688ae754a6e488ac01217253f4d17e81b02f2b63255eabceb516566842f6662",
+    "version":  "1.17.16+26.2-dominator-ui-torch-safe-toolcraft",
+    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-dominator-ui-torch-safe-558891af1645.jar",
+    "sha256":  "558891af1645719c6b6ebad20ebc065fba046c206ab247908e679916421a1902",
     "fileName":  "baritone-fabric-26.2-latest.jar"
 }
