@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.21-26.2-ryuk-hologram/baritone-fabric-26.2-ryuk-hologram-294eada8b39a.jar",
-    "version":  "1.17.21+26.2-ryuk-hologram",
-    "sha256":  "294eada8b39aec3841dcfade038cdc88cdbde338d23a6a39ddde95b9202be824"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.22-26.2-ryuk-startup-hotfix/baritone-fabric-26.2-ryuk-startup-hotfix-52d6ff3d9ad4.jar",
+    "version":  "1.17.22+26.2-ryuk-startup-hotfix",
+    "sha256":  "52d6ff3d9ad4c11815f72be970bfea0a1f29f700a2976e1f247b00bb1092853a"
 }
