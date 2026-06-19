@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.42-26.2-autodiagnostic-beta/baritone-fabric-26.2-autodiagnostic-beta-dd8ebf2ea8ec.jar",
-    "version":  "1.17.42+26.2-autodiagnostic-beta",
-    "sha256":  "dd8ebf2ea8ecf159255d49f01258bafa9308d535db5e76418afcf7134bdca70c"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.43-26.2-creative-inventory-fix/baritone-fabric-26.2-creative-inventory-fix-75e9a737186b.jar",
+    "version":  "1.17.43+26.2-creative-inventory-fix",
+    "sha256":  "75e9a737186b67144c5834c8679abc89a9ba92b17be41a1db1445b3dc7d042e5"
 }
