@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.38-26.2-scaffold-cleanup/baritone-fabric-26.2-scaffold-cleanup-68a0e70a3060.jar",
-    "version":  "1.17.38+26.2-scaffold-cleanup",
-    "sha256":  "68a0e70a306036fa0a2be607b0f1d83edf2819f2c79bf5cd2848a85c87233ec1"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.39-26.2-readable-ui/baritone-fabric-26.2-readable-ui-d954240c250e.jar",
+    "version":  "1.17.39+26.2-readable-ui",
+    "sha256":  "d954240c250e492faf6b743be9230af6ee95e2fae7706337b98bd482694c382d"
 }
