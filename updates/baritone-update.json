@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.10+26.2-menu-settings-clickfix",
-    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-menu-settings-clickfix-308082f91a67.jar",
-    "sha256":  "308082f91a671468a37dbff58e37659864c03ad134302814792954c830f2aca2",
+    "version":  "1.17.11+26.2-exact-ryuk-menu-settings-note",
+    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-exact-ryuk-menu-settings-note-bc98873433c1.jar",
+    "sha256":  "bc98873433c1055e8bdb4772cde98fc97c22f852cd3fc431537c7419073cfd5b",
     "fileName":  "baritone-fabric-26.2-latest.jar"
 }
