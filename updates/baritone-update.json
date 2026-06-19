@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.17.16+26.2-dominator-ui-torch-safe-toolcraft",
-    "url":  "https://raw.githubusercontent.com/kanzakideath/MinecraftMythos/main/updates/baritone-fabric-26.2-dominator-ui-torch-safe-558891af1645.jar",
-    "sha256":  "558891af1645719c6b6ebad20ebc065fba046c206ab247908e679916421a1902",
+    "version":  "1.17.17+26.2-hq-1080p60-video",
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.17-26.2-hq-1080p60-video/baritone-fabric-26.2-hq-1080p60-video-734dcf944c16.jar",
+    "sha256":  "734dcf944c1657c5fa75624db9a819dfc6d7892ee0e4c53f6a80f1f4b1d8cb4a",
     "fileName":  "baritone-fabric-26.2-latest.jar"
 }
