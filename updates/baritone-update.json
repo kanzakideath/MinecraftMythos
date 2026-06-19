@@ -1,6 +1,6 @@
 {
     "fileName": "baritone-fabric-26.2-latest.jar",
-    "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.24-26.2-autobuilder-bundle/baritone-fabric-26.2-autobuilder-bundle-97c062160fe6.jar",
-    "version": "1.17.24+26.2-autobuilder-bundle",
-    "sha256": "97c062160fe6888b47ccf3c390c7bf9279d58fc0edd2d1e811eb258c5f026bd8"
+    "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.25-26.2-material-chests/baritone-fabric-26.2-material-chests-57af0bdbbbfa.jar",
+    "version": "1.17.25+26.2-material-chests",
+    "sha256": "57af0bdbbbfa21647135d4225d9170e923d9e81a4bef49ba6ac2ba457d61c69b"
 }
