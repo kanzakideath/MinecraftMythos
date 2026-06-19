@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.36-26.2-status-hud-fix/baritone-fabric-26.2-status-hud-fix-25845556da77.jar",
-    "version":  "1.17.36+26.2-status-hud-fix",
-    "sha256":  "25845556da77b5d15bd487aa5ae1d4100ec38cfc7d0b91aaedb0d74a51ac62c4"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.37-26.2-placement-fix/baritone-fabric-26.2-placement-fix-406d251403f8.jar",
+    "version":  "1.17.37+26.2-placement-fix",
+    "sha256":  "406d251403f89881701d9c6ca9acd3861ac744d688bee156a344d296818aa0ca"
 }
