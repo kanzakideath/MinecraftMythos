@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.69-26.2-loop-ui-fix/baritone-fabric-26.2-loop-ui-fix-3b0852a89242.jar",
-    "version":  "1.17.69+26.2-loop-ui-fix",
-    "sha256":  "3b0852a89242ded4ec19233ed3ea59338c58d951804dfeac075f027f84c55ed5"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.70-26.2-combat-effects-fix/baritone-fabric-26.2-combat-effects-fix-31d0157a2ad3.jar",
+    "version":  "1.17.70+26.2-combat-effects-fix",
+    "sha256":  "31d0157a2ad3609ab85e2d3083a9252fa798a8ecfc7737caf4ba4e2aff14ce88"
 }
