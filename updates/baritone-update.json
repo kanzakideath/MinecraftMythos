@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.47-26.2-iron-farm-flow-fix/baritone-fabric-26.2-iron-farm-flow-fix-b1a27d9ef698.jar",
-    "version":  "1.17.47+26.2-iron-farm-flow-fix",
-    "sha256":  "b1a27d9ef698ca1ac25fa48a5e5541666b865e672d9e59515e063d6902d54fcf"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.48-26.2-iron-farm-lava-bucket-fix/baritone-fabric-26.2-iron-farm-lava-bucket-fix-b9c9a42ae7ac.jar",
+    "version":  "1.17.48+26.2-iron-farm-lava-bucket-fix",
+    "sha256":  "b9c9a42ae7accad2d41d3196b1c54b5dc349ee8813e7a59902408d33e2e9fc43"
 }
