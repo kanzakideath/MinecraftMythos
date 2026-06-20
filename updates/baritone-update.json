@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.56-26.2-creative-complete-fix/baritone-fabric-26.2-creative-complete-fix-1af44616629b.jar",
-    "version":  "1.17.56+26.2-creative-complete-fix",
-    "sha256":  "1af44616629b08634458219c8480cfbe194d65b63b0cd68bb7e5a7544d2346ef"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.58-26.2-clear-during-build-fix/baritone-fabric-26.2-clear-during-build-fix-5a29968aa0ff.jar",
+    "version":  "1.17.58+26.2-clear-during-build-fix",
+    "sha256":  "5a29968aa0ffc9ffd0b251d801b05255ff6075e609830a4b4f25b0435560126b"
 }
