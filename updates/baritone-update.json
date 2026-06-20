@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.67-26.2-feature-polish/baritone-fabric-26.2-feature-polish-7578dba3dd43.jar",
-    "version":  "1.17.67+26.2-feature-polish",
-    "sha256":  "7578dba3dd437742614f58b1e90456e601f735911094fb266883b7edb52faf0a"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.68-26.2-command-state-fix/baritone-fabric-26.2-command-state-fix-a1bf636767fa.jar",
+    "version":  "1.17.68+26.2-command-state-fix",
+    "sha256":  "a1bf636767faae9d58349eea303723dbb034bb27b2c845fdd168a833e5a6e4cb"
 }
