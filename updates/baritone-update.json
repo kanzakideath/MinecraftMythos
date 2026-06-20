@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.93-26.2-overworld-elytra-combat/baritone-fabric-26.2-overworld-elytra-combat-7961056b8d21.jar",
-    "version":  "1.17.93+26.2-overworld-elytra-combat",
-    "sha256":  "7961056b8d216b1b2b56a837e1339daaf1be7a1dd7be15b131177852539981f8"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.94-26.2-safe-elytra-home-combat/baritone-fabric-26.2-safe-elytra-home-combat-1c7554095e20.jar",
+    "version":  "1.17.94+26.2-safe-elytra-home-combat",
+    "sha256":  "1c7554095e20746f0e844a4fa9d1e86519f228c2ec77117c2186ef3335a380bd"
 }
