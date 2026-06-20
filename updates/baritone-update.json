@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.45-26.2-occupied-substitute-fix/baritone-fabric-26.2-occupied-substitute-fix-7fb0218f4563.jar",
-    "version":  "1.17.45+26.2-occupied-substitute-fix",
-    "sha256":  "7fb0218f4563fbd2d8d4b2d3e4f3b37d230bb60e68379fdfbf8508cc49fe7f9d"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.46-26.2-scaffold-cleanup-order-fix/baritone-fabric-26.2-scaffold-cleanup-order-fix-ee9519e8c0ac.jar",
+    "version":  "1.17.46+26.2-scaffold-cleanup-order-fix",
+    "sha256":  "ee9519e8c0ac59d01bbebdb67e8892825d18785fba6042be028886bc0825b873"
 }
