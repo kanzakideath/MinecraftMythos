@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.85-26.2-clear-topdown-fix/baritone-fabric-26.2-clear-topdown-fix-95b6eaea1b39.jar",
-    "version":  "1.17.85+26.2-clear-topdown-fix",
-    "sha256":  "95b6eaea1b39ce75d98f51dee141143fea94431ac4751a56adad2c43c863a7ac"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.86-26.2-scaffold-missing-fix/baritone-fabric-26.2-scaffold-missing-fix-7cc5d0611692.jar",
+    "version":  "1.17.86+26.2-scaffold-missing-fix",
+    "sha256":  "7cc5d0611692a46095e485cf68fb66f599f847d940e8818f50b37e99883ef09a"
 }
