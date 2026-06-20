@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.79-26.2-clear-stability/baritone-fabric-26.2-clear-stability-13945ab1919d.jar",
-    "version":  "1.17.79+26.2-clear-stability",
-    "sha256":  "13945ab1919d7a7cdef9f52bbb0d9f4605142d06e99c8e862bd20255432c8bd6"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.81-26.2-modern-ui-clear-top/baritone-fabric-26.2-modern-ui-clear-top-bfb6ea77b0e0.jar",
+    "version":  "1.17.81+26.2-modern-ui-clear-top",
+    "sha256":  "bfb6ea77b0e08b52fed3cad14c0d4267ea5a171e4d966c2698bc8c762ebdaa9e"
 }
