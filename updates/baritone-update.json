@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.70-26.2-combat-effects-fix/baritone-fabric-26.2-combat-effects-fix-31d0157a2ad3.jar",
-    "version":  "1.17.70+26.2-combat-effects-fix",
-    "sha256":  "31d0157a2ad3609ab85e2d3083a9252fa798a8ecfc7737caf4ba4e2aff14ce88"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.71-26.2-layer-sync/baritone-fabric-26.2-layer-sync-c723ca4c53ed.jar",
+    "version":  "1.17.71+26.2-layer-sync",
+    "sha256":  "c723ca4c53edbb5f17856830afc92e88178560d2b79f823a09fffa9b9012add1"
 }
