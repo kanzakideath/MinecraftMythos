@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.62-26.2-clear-selection-priority/baritone-fabric-26.2-clear-selection-priority-bbca07ea5baa.jar",
-    "version":  "1.17.62+26.2-clear-selection-priority",
-    "sha256":  "bbca07ea5baafded94c5141249dc39901e1f7760c455a87f78a616f4ad7c6896"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.63-26.2-menu-textures/baritone-fabric-26.2-menu-textures-c760e251ce33.jar",
+    "version":  "1.17.63+26.2-menu-textures",
+    "sha256":  "c760e251ce33c1a58fad39dcdcbccdf076cc3659e7c4b7452c1869d52bb73b34"
 }
