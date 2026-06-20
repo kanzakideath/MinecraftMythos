@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.87-26.2-modern-dashboard-ui/baritone-fabric-26.2-modern-dashboard-ui-b6483e663d30.jar",
-    "version":  "1.17.87+26.2-modern-dashboard-ui",
-    "sha256":  "b6483e663d30beed18bd310a8d8b2a34b54f248038ddf4643879c5a5f3816ebe"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.88-26.2-home-persistence-elytra/baritone-fabric-26.2-home-persistence-elytra-091c950c7a1c.jar",
+    "version":  "1.17.88+26.2-home-persistence-elytra",
+    "sha256":  "091c950c7a1ca1c9d087f1d51b0b67506e6de4465aedaca3a723c7ab6d3e58c2"
 }
