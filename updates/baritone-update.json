@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.84-26.2-ui-toggle-fix/baritone-fabric-26.2-ui-toggle-fix-c24605e95f35.jar",
-    "version":  "1.17.84+26.2-ui-toggle-fix",
-    "sha256":  "c24605e95f35040ca651738a0a35ccc6a94541aad0654ede4a1521348840f908"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.85-26.2-clear-topdown-fix/baritone-fabric-26.2-clear-topdown-fix-95b6eaea1b39.jar",
+    "version":  "1.17.85+26.2-clear-topdown-fix",
+    "sha256":  "95b6eaea1b39ce75d98f51dee141143fea94431ac4751a56adad2c43c863a7ac"
 }
