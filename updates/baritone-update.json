@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.46-26.2-scaffold-cleanup-order-fix/baritone-fabric-26.2-scaffold-cleanup-order-fix-ee9519e8c0ac.jar",
-    "version":  "1.17.46+26.2-scaffold-cleanup-order-fix",
-    "sha256":  "ee9519e8c0ac59d01bbebdb67e8892825d18785fba6042be028886bc0825b873"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.47-26.2-iron-farm-flow-fix/baritone-fabric-26.2-iron-farm-flow-fix-b1a27d9ef698.jar",
+    "version":  "1.17.47+26.2-iron-farm-flow-fix",
+    "sha256":  "b1a27d9ef698ca1ac25fa48a5e5541666b865e672d9e59515e063d6902d54fcf"
 }
