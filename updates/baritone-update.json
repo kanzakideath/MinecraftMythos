@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.60-26.2-build-complete-guard/baritone-fabric-26.2-build-complete-guard-d2d7ac28db01.jar",
-    "version":  "1.17.60+26.2-build-complete-guard",
-    "sha256":  "d2d7ac28db018ea4b16a2b99e68cf2e0a87cd67ee84b8022ad7026d4429a0d33"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.61-26.2-ui-themes/baritone-fabric-26.2-ui-themes-78a6a83bfebf.jar",
+    "version":  "1.17.61+26.2-ui-themes",
+    "sha256":  "78a6a83bfebf73b87e49e25b4fb8bed70fba94cd18caf09675daf089c072254a"
 }
