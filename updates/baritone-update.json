@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.71-26.2-layer-sync/baritone-fabric-26.2-layer-sync-c723ca4c53ed.jar",
-    "version":  "1.17.71+26.2-layer-sync",
-    "sha256":  "c723ca4c53edbb5f17856830afc92e88178560d2b79f823a09fffa9b9012add1"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.72-26.2-combat-video-restore/baritone-fabric-26.2-combat-video-restore-4838d6562bc7.jar",
+    "version":  "1.17.72+26.2-combat-video-restore",
+    "sha256":  "4838d6562bc7e0a345606df4f7228168abf49ce6c90b7a57adaf2dedbfd737d2"
 }
