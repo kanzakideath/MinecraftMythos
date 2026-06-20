@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.82-26.2-native-modern-ui/baritone-fabric-26.2-native-modern-ui-ea220375ec1e.jar",
-    "version":  "1.17.82+26.2-native-modern-ui",
-    "sha256":  "ea220375ec1efe4081948379294ccdb608a6e5419fa5812680fe048a54b1b5cf"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.83-26.2-clickable-homes/baritone-fabric-26.2-clickable-homes-3f4f4d92e7a2.jar",
+    "version":  "1.17.83+26.2-clickable-homes",
+    "sha256":  "3f4f4d92e7a22f09ae5ae4023996da37aed12bd6fcaf7448a27e96d50391595f"
 }
