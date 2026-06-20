@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.86-26.2-scaffold-missing-fix/baritone-fabric-26.2-scaffold-missing-fix-7cc5d0611692.jar",
-    "version":  "1.17.86+26.2-scaffold-missing-fix",
-    "sha256":  "7cc5d0611692a46095e485cf68fb66f599f847d940e8818f50b37e99883ef09a"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.87-26.2-modern-dashboard-ui/baritone-fabric-26.2-modern-dashboard-ui-21b24eb25c6d.jar",
+    "version":  "1.17.87+26.2-modern-dashboard-ui",
+    "sha256":  "21b24eb25c6d282c8f313b61f8f1e1cea0048605fef3b24b7f1f6a39234299e4"
 }
