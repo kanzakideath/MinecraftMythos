@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.100-26.2-storage-blocks-only/baritone-fabric-26.2-storage-blocks-only-072112ccd616.jar",
-    "version":  "1.17.100+26.2-storage-blocks-only",
-    "sha256":  "072112ccd616d7769ff0d08d68d4145ed381a5297e94071c6356818e7d503249"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.101-26.2-wardrobe-ui/baritone-fabric-26.2-wardrobe-ui-d1dd3fb6ead5.jar",
+    "version":  "1.17.101+26.2-wardrobe-ui",
+    "sha256":  "d1dd3fb6ead5f375c445b9335ee7ea6fcae1568f5c0357a15131ad36ad3bc71e"
 }
