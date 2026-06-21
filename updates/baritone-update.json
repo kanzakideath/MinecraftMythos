@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.102-26.2-responsive-clickgui/baritone-fabric-26.2-responsive-clickgui-4aa985cc6dd5.jar",
-    "version":  "1.17.102+26.2-responsive-clickgui",
-    "sha256":  "4aa985cc6dd5b0f15b0830a9bcc860479485bdd536056621d1a4344cbfeb439f"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.103-26.2-elytra-launch-pause/baritone-fabric-26.2-elytra-launch-pause-cfb90ecc6641.jar",
+    "version":  "1.17.103+26.2-elytra-launch-pause",
+    "sha256":  "cfb90ecc664161634a1f5acb79a4622f4cccf5861c36a3ec4e04b2b06aa51449"
 }
