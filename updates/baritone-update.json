@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.108-26.2-elytra-fallback-fix/baritone-fabric-26.2-elytra-fallback-fix-6d4113af82ca.jar",
-    "version":  "1.17.108+26.2-elytra-fallback-fix",
-    "sha256":  "6d4113af82caf7a47a41cc36ab8eedf259a72923033dfd2aa2c5e5f433d517a2"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.109-26.2-shovel-toolcraft/baritone-fabric-26.2-shovel-toolcraft-b77d49eb8cc4.jar",
+    "version":  "1.17.109+26.2-shovel-toolcraft",
+    "sha256":  "b77d49eb8cc46961d480663370618c8eec70e8b9f9d1bbae32c53aaf4443befe"
 }
