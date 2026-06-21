@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.94-26.2-safe-elytra-home-combat/baritone-fabric-26.2-safe-elytra-home-combat-1c7554095e20.jar",
-    "version":  "1.17.94+26.2-safe-elytra-home-combat",
-    "sha256":  "1c7554095e20746f0e844a4fa9d1e86519f228c2ec77117c2186ef3335a380bd"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.95-26.2-navigator-combat-avoidance/baritone-fabric-26.2-navigator-combat-avoidance-edf20f6b0656.jar",
+    "version":  "1.17.95+26.2-navigator-combat-avoidance",
+    "sha256":  "edf20f6b065610d9d4409e22cc5d44879f983257a5c2f1e8b324d2d4b8fe624e"
 }
