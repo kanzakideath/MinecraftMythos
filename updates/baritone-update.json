@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.105-26.2-tool-storage-craft/baritone-fabric-26.2-tool-storage-craft-cc897b02c968.jar",
-    "version":  "1.17.105+26.2-tool-storage-craft",
-    "sha256":  "cc897b02c968d8508a5052e49dd825e7e0e8bc8671c7a290d7c9f0d7c3d801d8"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.107-26.2-chat-boss-toggle/baritone-fabric-26.2-chat-boss-toggle-ba3949054ac6.jar",
+    "version":  "1.17.107+26.2-chat-boss-toggle",
+    "sha256":  "ba3949054ac697318a5105d0a19854976ad2fbfb5a545af841ed100919cce31e"
 }
