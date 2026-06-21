@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.98-26.2-elytra-stability/baritone-fabric-26.2-elytra-stability-e40eed3b6740.jar",
-    "version":  "1.17.98+26.2-elytra-stability",
-    "sha256":  "e40eed3b6740e9cb37da526d6d54ba3ca2196e4ebbcef7d08c318f718da34ebf"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.99-26.2-fast-elytra-return/baritone-fabric-26.2-fast-elytra-return-440e66630662.jar",
+    "version":  "1.17.99+26.2-fast-elytra-return",
+    "sha256":  "440e66630662c6ae2c7049d0e74c78abf785d57a00cd873d2978321b731e78df"
 }
