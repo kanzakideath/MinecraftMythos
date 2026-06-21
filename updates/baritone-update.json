@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.107-26.2-chat-boss-toggle/baritone-fabric-26.2-chat-boss-toggle-fd3a43403a69.jar",
-    "version":  "1.17.107+26.2-chat-boss-toggle",
-    "sha256":  "fd3a43403a69d8b10441dbb70bb3f14630d4061c1d81fce00e4379da0d93de22"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.108-26.2-elytra-fallback-fix/baritone-fabric-26.2-elytra-fallback-fix-6d4113af82ca.jar",
+    "version":  "1.17.108+26.2-elytra-fallback-fix",
+    "sha256":  "6d4113af82caf7a47a41cc36ab8eedf259a72923033dfd2aa2c5e5f433d517a2"
 }
