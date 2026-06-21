@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.113-26.2-elytra-airborne-fix/baritone-fabric-26.2-elytra-airborne-fix-63456f354aca.jar",
-    "version":  "1.17.113+26.2-elytra-airborne-fix",
-    "sha256":  "63456f354acae0fe2803a55aaaa1043e7120b0beb51a128a15dac62d6401cc2f"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.114-26.2-nether-landing-safe/baritone-fabric-26.2-nether-landing-safe-d06261ff702f.jar",
+    "version":  "1.17.114+26.2-nether-landing-safe",
+    "sha256":  "d06261ff702f98afa0b7e7ecfc392db9eb8185e974904bcef80836ec159b78a9"
 }
