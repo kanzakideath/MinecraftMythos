@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.114-26.2-nether-landing-safe/baritone-fabric-26.2-nether-landing-safe-d06261ff702f.jar",
-    "version":  "1.17.114+26.2-nether-landing-safe",
-    "sha256":  "d06261ff702f98afa0b7e7ecfc392db9eb8185e974904bcef80836ec159b78a9"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.115-26.2-return-elytra-hardening/baritone-fabric-26.2-return-elytra-hardening-d3fde3a15a71.jar",
+    "version":  "1.17.115+26.2-return-elytra-hardening",
+    "sha256":  "d3fde3a15a71d7c390fb005754e4827cefd05ec7220e3e75b81095127e064759"
 }
