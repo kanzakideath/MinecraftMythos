@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.131-26.2-ui-readable-text/baritone-fabric-26.2-ui-readable-text-3df885fe9409.jar",
-    "version":  "1.17.131+26.2-ui-readable-text",
-    "sha256":  "3df885fe940982aea04eb5ee516339d7d6f97152f67e1429029ca2864e0af68c"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.132-26.2-clear-freeze-fix/baritone-fabric-26.2-clear-freeze-fix-1879dc6b0bfb.jar",
+    "version":  "1.17.132+26.2-clear-freeze-fix",
+    "sha256":  "1879dc6b0bfbef2fa1083af4d54fd31f0269b142f10a060b3b81b9f61990efd6"
 }
