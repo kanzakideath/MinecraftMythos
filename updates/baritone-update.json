@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.132-26.2-clear-freeze-fix/baritone-fabric-26.2-clear-freeze-fix-1879dc6b0bfb.jar",
-    "version":  "1.17.132+26.2-clear-freeze-fix",
-    "sha256":  "1879dc6b0bfbef2fa1083af4d54fd31f0269b142f10a060b3b81b9f61990efd6"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.133-26.2-tool-chest-scan/baritone-fabric-26.2-tool-chest-scan-006e35d55f4b.jar",
+    "version":  "1.17.133+26.2-tool-chest-scan",
+    "sha256":  "006e35d55f4b49586cda638992f130b37ade7b87ae69377b1a4eefc47447d2cb"
 }
