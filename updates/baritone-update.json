@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.135-26.2-single-clear-layer/baritone-fabric-26.2-single-clear-layer-f0e6458645c1.jar",
-    "version":  "1.17.135+26.2-single-clear-layer",
-    "sha256":  "f0e6458645c12d22288cead9afbc7ff7935235125ad87539543d5778bc259abb"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.136-26.2-skeleton-combat/baritone-fabric-26.2-skeleton-combat-1162f4bbff1b.jar",
+    "version":  "1.17.136+26.2-skeleton-combat",
+    "sha256":  "1162f4bbff1be6f50c058355530b12bc4731796ee4eb94c56150fff83ed7fe07"
 }
