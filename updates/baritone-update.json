@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.137-26.2-keybind-persist/baritone-fabric-26.2-keybind-persist-e3d077ea9fe3.jar",
-    "version":  "1.17.137+26.2-keybind-persist",
-    "sha256":  "e3d077ea9fe3e9d96e54e46d0aae55f1494377ae179ccc1fc53fb5adcff0a42c"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.140-26.2-water-nav-gear-scaffold/baritone-fabric-26.2-water-nav-gear-scaffold-5866be7d65ba.jar",
+    "version":  "1.17.140+26.2-water-nav-gear-scaffold",
+    "sha256":  "5866be7d65badfee0bc9b79b37e5287eeb99b09bc554ff811db110e63a42ec25"
 }
