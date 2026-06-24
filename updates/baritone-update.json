@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.145-26.2-aggressive-combat/baritone-fabric-26.2-aggressive-combat-40d6f73ad6f3.jar",
-    "version":  "1.17.145+26.2-aggressive-combat",
-    "sha256":  "40d6f73ad6f3f707f19fb5cc2cd96d00879d87e04d6f560989628c49292e9285"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.149-26.2-auto-update/baritone-fabric-26.2-auto-update-f44ba010.jar",
+    "version":  "1.17.149+26.2-auto-update",
+    "sha256":  "f44ba010df0a7650f308e0ff4e2c9878ed7149e77f80b9e2e074f9c8faec8e46"
 }
