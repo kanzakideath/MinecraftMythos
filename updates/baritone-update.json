@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.158-26.2-storage-stuck-fix/baritone-fabric-26.2-storage-stuck-fix-aeff1543.jar",
-    "version":  "1.17.158+26.2-storage-stuck-fix",
-    "sha256":  "aeff15432dae4d496a570cfd1d6f1defcf2dda176700680427c69e41225708c4"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.159-26.2-aggressive-hostile-combat/baritone-fabric-26.2-aggressive-hostile-combat-9a32d51d.jar",
+    "version":  "1.17.159+26.2-aggressive-hostile-combat",
+    "sha256":  "9a32d51d50293ea8f642d3154e19fb8c6f95270cc00586fd6badcb201453f309"
 }
