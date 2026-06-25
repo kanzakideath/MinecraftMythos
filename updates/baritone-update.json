@@ -1,6 +1,6 @@
 {
     "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.149-26.2-auto-update/baritone-fabric-26.2-auto-update-f44ba010.jar",
-    "version":  "1.17.149+26.2-auto-update",
-    "sha256":  "f44ba010df0a7650f308e0ff4e2c9878ed7149e77f80b9e2e074f9c8faec8e46"
+    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.154-26.2-main-menu-public-fix/baritone-fabric-26.2-main-menu-public-fix-98454b18.jar",
+    "version":  "1.17.154+26.2-main-menu-public-fix",
+    "sha256":  "98454b1888c25277f6cc4e71cdbb998cf1a90fb6edd0b88bdd00b7dc83995f58"
 }
