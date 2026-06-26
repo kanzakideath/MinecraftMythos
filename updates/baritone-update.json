@@ -1,14 +1,14 @@
 {
-    "fileName":  "baritone-fabric-26.2-latest.jar",
-    "url":  "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.162-26.2-update-notes/baritone-fabric-1.17.162%2B26.2-update-notes.jar",
-    "version":  "1.17.162+26.2-update-notes",
-    "sha256":  "0db3e724ff676ac66a620dbf0beb9a459c890f1c6029771088f695c4b926a267",
-    "title":  "更新内容表示を追加",
-    "summary":  "アップデート時に、変更内容をゲーム内チャットへ短く表示するようにしました。",
-    "changes":  [
-        "更新準備時にチャットへ変更点を表示",
-        "更新後の初回起動でも更新内容を1回だけ表示",
-        "manifestにtitle / summary / changesを追加",
-        "前回のEXTREME戦闘強化もそのまま維持"
-    ]
+  "fileName": "baritone-fabric-26.2-latest.jar",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.163-26.2-combat-tool-fixes/baritone-fabric-1.17.163%2B26.2-combat-tool-fixes.jar",
+  "version": "1.17.163+26.2-combat-tool-fixes",
+  "sha256": "8b2ce1037c1545e462bd6be8c03eb012a70e83f3d3f3bafcfa6f76b0d23f7c2c",
+  "title": "戦闘スプリント・ツール保持・メニューBGM更新",
+  "summary": "戦闘中のスプリント維持、壊れかけツールを保管しない処理、メインメニューBGMを更新しました。",
+  "changes": [
+    "メインメニューBGMを新しい音源に差し替え",
+    "戦闘中に移動している時はスプリントを維持",
+    "壊れかけツールを保管チェストへ預けないよう修正",
+    "水バケツ補充と水バケツ自動収納防止の設定を処理側で分離して確認"
+  ]
 }
