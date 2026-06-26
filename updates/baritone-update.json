@@ -1,14 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.163-26.2-combat-tool-fixes/baritone-fabric-1.17.163%2B26.2-combat-tool-fixes.jar",
-  "version": "1.17.163+26.2-combat-tool-fixes",
-  "sha256": "8b2ce1037c1545e462bd6be8c03eb012a70e83f3d3f3bafcfa6f76b0d23f7c2c",
-  "title": "戦闘スプリント・ツール保持・メニューBGM更新",
-  "summary": "戦闘中のスプリント維持、壊れかけツールを保管しない処理、メインメニューBGMを更新しました。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.164-26.2-shield-defense/baritone-fabric-1.17.164%2B26.2-shield-defense.jar",
+  "version": "1.17.164+26.2-shield-defense",
+  "sha256": "1dbb4f28d431f27c7d99371275e79425a3ae660dda77c823695d6e2dc9a6bc9a",
+  "title": "\u76fe\u81ea\u52d5\u9632\u5fa1\u30fb\u6226\u95d8\u5b89\u5b9a\u5316",
+  "summary": "\u76fe\u3092\u6301\u3063\u3066\u3044\u308b\u6642\u3001\u8fd1\u63a5\u653b\u6483\u76f4\u524d\u30fb\u88ab\u5f3e\u76f4\u5f8c\u30fb\u98db\u3073\u9053\u5177\u63a5\u8fd1\u6642\u306b\u81ea\u52d5\u3067\u9632\u5fa1\u3057\u307e\u3059\u3002",
   "changes": [
-    "メインメニューBGMを新しい音源に差し替え",
-    "戦闘中に移動している時はスプリントを維持",
-    "壊れかけツールを保管チェストへ預けないよう修正",
-    "水バケツ補充と水バケツ自動収納防止の設定を処理側で分離して確認"
+    "\u76fe\u3092\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u30aa\u30d5\u30cf\u30f3\u30c9\u3078\u81ea\u52d5\u88c5\u5099\u3059\u308b\u51e6\u7406\u3092\u5f37\u5316",
+    "\u30c8\u30fc\u30c6\u30e0\u3092\u6301\u3063\u3066\u3044\u308b\u5834\u5408\u306f\u76fe\u3067\u4e0a\u66f8\u304d\u3057\u306a\u3044\u5b89\u5168\u51e6\u7406\u3092\u8ffd\u52a0",
+    "\u8fd1\u63a5Mob\u306e\u653b\u6483\u30e2\u30fc\u30b7\u30e7\u30f3\u3001\u88ab\u5f3e\u76f4\u5f8c\u3001\u8907\u6570\u6575\u63a5\u8fd1\u6642\u306b\u76fe\u3092\u69cb\u3048\u308b\u3088\u3046\u4fee\u6b63",
+    "\u77e2\u30fb\u30c8\u30e9\u30a4\u30c7\u30f3\u30c8\u306a\u3069\u306e\u98db\u3073\u9053\u5177\u304c\u63a5\u8fd1\u3057\u305f\u6642\u306b\u76fe\u3092\u69cb\u3048\u308b\u3088\u3046\u4fee\u6b63"
   ]
 }
