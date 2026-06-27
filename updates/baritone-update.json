@@ -1,15 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.167-26.2-water-shield-defense/baritone-fabric-1.17.167%2B26.2-water-shield-defense.jar",
-  "version": "1.17.167+26.2-water-shield-defense",
-  "sha256": "853a9395c9c14a1f3dc9284d4c36a5597412c41cae5d1fe78eb30e51e55a09d9",
-  "title": "\u6c34\u4e2d\u9632\u5fa1\u3068\u4fdd\u7ba1\u30c1\u30a7\u30b9\u30c8\u767b\u9332\u30dc\u30bf\u30f3\u4fee\u6b63",
-  "summary": "\u30e1\u30a4\u30f3\u753b\u9762\u306e\u4fdd\u7ba1\u30c1\u30a7\u30b9\u30c8\u767b\u9332\u30dc\u30bf\u30f3\u3092\u958b\u59cb/\u7d42\u4e86\u3067\u304d\u308b\u30c8\u30b0\u30eb\u306b\u3057\u3001\u6c34\u4e2d\u3084\u4f4e\u9178\u7d20\u6642\u3067\u3082\u76fe\u3068\u76f4\u8fd1\u653b\u6483\u8005\u3092\u4fdd\u6301\u3059\u308b\u3088\u3046\u306b\u4fee\u6b63\u3057\u307e\u3057\u305f\u3002",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.168-26.2-water-toggle-fix/baritone-fabric-1.17.168%2B26.2-water-toggle-fix.jar",
+  "version": "1.17.168+26.2-water-toggle-fix",
+  "sha256": "380af2bf304ac5708507404e796f7dfc84517dc6e0abc9261306dab1bda09ed6",
+  "title": "水バケツ補充OFFの反映修正",
+  "summary": "水バケツ補充と落下時水バケツ着地のOFFを補充処理側でも厳密に見て、OFF時に登録チェストへ水を取りに行かないようにしました。",
   "changes": [
-    "\u30e1\u30a4\u30f3\u30bf\u30d6\u306e\u4fdd\u7ba1\u30c1\u30a7\u30b9\u30c8\u767b\u9332\u30dc\u30bf\u30f3\u3092\u958b\u59cb/\u7d42\u4e86\u30c8\u30b0\u30eb\u5316",
-    "\u767b\u9332\u4e2d\u306f\u540c\u3058\u30dc\u30bf\u30f3\u304c\u300c\u4fdd\u7ba1\u30c1\u30a7\u30b9\u30c8\u767b\u9332\u3092\u7d42\u4e86\u300d\u306b\u5207\u308a\u66ff\u308f\u308b\u3088\u3046\u4fee\u6b63",
-    "\u6c34\u4e2d\u3084\u4f4e\u9178\u7d20\u6642\u306b\u76fe\u3092\u89e3\u9664\u3057\u3066\u3057\u307e\u3046\u554f\u984c\u3092\u4fee\u6b63",
-    "\u80cc\u5f8c\u304b\u3089\u306e\u30b9\u30b1\u30eb\u30c8\u30f3\u77e2\u3084\u30c8\u30e9\u30a4\u30c7\u30f3\u30c8\u653b\u6483\u306e\u5c04\u624b\u3092\u77ed\u6642\u9593\u8a18\u61b6\u3057\u3066\u9632\u5fa1\u5bfe\u8c61\u306b\u3059\u308b\u3088\u3046\u4fee\u6b63",
-    "\u30c9\u30e9\u30a6\u30f3\u30c9\u3092\u6c34\u4e2d\u4f5c\u696d\u30fb\u5e30\u5b85\u6642\u306e\u9632\u885b\u5bfe\u8c61\u3068\u3057\u3066\u62fe\u3044\u3084\u3059\u304f\u4fee\u6b63"
+    "水バケツ補充をデフォルトOFFに変更",
+    "落下時の水バケツ着地がOFFの場合も水バケツ補充を無効化",
+    "補充中に水バケツ設定をOFFにした場合、登録チェストへの移動を即終了",
+    "水補充OFF時は既存水バケツを勝手にホットバーへ移動しないよう修正"
   ]
 }
