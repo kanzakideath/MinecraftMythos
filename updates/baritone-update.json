@@ -1,14 +1,16 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.168-26.2-water-toggle-fix/baritone-fabric-1.17.168%2B26.2-water-toggle-fix.jar",
-  "version": "1.17.168+26.2-water-toggle-fix",
-  "sha256": "380af2bf304ac5708507404e796f7dfc84517dc6e0abc9261306dab1bda09ed6",
-  "title": "水バケツ補充OFFの反映修正",
-  "summary": "水バケツ補充と落下時水バケツ着地のOFFを補充処理側でも厳密に見て、OFF時に登録チェストへ水を取りに行かないようにしました。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.169-26.2-combat-stuck-guard/baritone-fabric-1.17.169%2B26.2-combat-stuck-guard.jar",
+  "version": "1.17.169+26.2-combat-stuck-guard",
+  "sha256": "ce9f34c4e66b7477b3c16ccc91f643548f46e324fd729385ae2317eca1dfe3cc",
+  "title": "戦闘・スタック対策強化",
+  "summary": "作業中や帰宅中の戦闘判断、盾防御、スタック検知、経路再計算を強化しました。水バケツ補充OFF設定も維持されます。",
   "changes": [
-    "水バケツ補充をデフォルトOFFに変更",
-    "落下時の水バケツ着地がOFFの場合も水バケツ補充を無効化",
-    "補充中に水バケツ設定をOFFにした場合、登録チェストへの移動を即終了",
-    "水補充OFF時は既存水バケツを勝手にホットバーへ移動しないよう修正"
+    "戦闘検知範囲を広げ、遠距離Mobや攻撃者への反応を強化",
+    "盾を持っている時は危険な射撃や被弾直後の防御を優先",
+    "戦闘中に同じ場所で詰まった場合、より早くジャンプ・後退・横移動で脱出",
+    "同じ敵に固執して止まるケースを検知し、一定回数後は別行動へ切り替え",
+    "経路移動中の縦移動ループ、壁押し、同一座標停滞をより短時間で再計算",
+    "水バケツ補充OFF時に保管チェストへ水バケツを取りに行かない設定を維持"
   ]
 }
