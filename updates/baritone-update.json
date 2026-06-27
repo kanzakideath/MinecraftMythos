@@ -1,16 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.169-26.2-combat-stuck-guard/baritone-fabric-1.17.169%2B26.2-combat-stuck-guard.jar",
-  "version": "1.17.169+26.2-combat-stuck-guard",
-  "sha256": "ce9f34c4e66b7477b3c16ccc91f643548f46e324fd729385ae2317eca1dfe3cc",
-  "title": "戦闘・スタック対策強化",
-  "summary": "作業中や帰宅中の戦闘判断、盾防御、スタック検知、経路再計算を強化しました。水バケツ補充OFF設定も維持されます。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.170-26.2-shield-death-recovery/baritone-fabric-1.17.170%2B26.2-shield-death-recovery.jar",
+  "version": "1.17.170+26.2-shield-death-recovery",
+  "sha256": "3a00dbdb0710461ba0ed9c79c4d36e63de6308eb4743a0b9b5c687716ba888d3",
+  "title": "\u76fe\u9632\u5fa1\u3068\u6b7b\u4ea1\u5730\u70b9\u56de\u53ce\u306e\u5f37\u5316",
+  "summary": "\u76fe\u3092\u6575\u65b9\u5411\u3078\u5411\u3051\u7d9a\u3051\u308b\u9632\u5fa1\u3001\u5f13\u30fb\u30c9\u30e9\u30a6\u30f3\u30c9\u30fb\u6c34\u4e2d\u6226\u95d8\u3001\u6b7b\u4ea1\u5730\u70b9\u306e\u5468\u56de\u56de\u53ce\u3001\u81ea\u52d5\u66f4\u65b0\u8868\u793a\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002",
   "changes": [
-    "戦闘検知範囲を広げ、遠距離Mobや攻撃者への反応を強化",
-    "盾を持っている時は危険な射撃や被弾直後の防御を優先",
-    "戦闘中に同じ場所で詰まった場合、より早くジャンプ・後退・横移動で脱出",
-    "同じ敵に固執して止まるケースを検知し、一定回数後は別行動へ切り替え",
-    "経路移動中の縦移動ループ、壁押し、同一座標停滞をより短時間で再計算",
-    "水バケツ補充OFF時に保管チェストへ水バケツを取りに行かない設定を維持"
+    "\u76fe\u6301\u3061\u6642\u306b\u5f13\u30fb\u6295\u5c04\u7269\u30fb\u80cc\u5f8c\u304b\u3089\u306e\u653b\u6483\u3078\u3088\u308a\u65e9\u304f\u5411\u304d\u76f4\u3063\u3066\u9632\u5fa1\u3057\u307e\u3059\u3002",
+    "\u6c34\u4e2d\u3084\u5e30\u5b85\u30fb\u6574\u5730\u30fb\u88dc\u5145\u4e2d\u306e\u653b\u6483\u8005\u691c\u77e5\u3092\u5f37\u5316\u3057\u3001\u30c9\u30e9\u30a6\u30f3\u30c9\u3084\u30b9\u30b1\u30eb\u30c8\u30f3\u3078\u306e\u53cd\u5fdc\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002",
+    "\u6b7b\u4ea1\u5f8c\u306b\u6b7b\u4ea1\u5730\u70b9\u3078\u623b\u308a\u3001\u5468\u8fba\u3092\u5de1\u56de\u3057\u3066\u843d\u3068\u3057\u305f\u30a2\u30a4\u30c6\u30e0\u3092\u56de\u53ce\u3059\u308b\u51e6\u7406\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002",
+    "\u66f4\u65b0\u901a\u77e5\u3068manifest\u306e\u6587\u5b57\u5316\u3051\u3092\u4fee\u6b63\u3057\u3001\u8d77\u52d5\u6642\u306e\u81ea\u52d5\u66f4\u65b0\u3067\u5168\u30e6\u30fc\u30b6\u30fc\u306b\u914d\u4fe1\u3055\u308c\u308b\u3088\u3046\u306b\u3057\u307e\u3057\u305f\u3002"
   ]
 }
