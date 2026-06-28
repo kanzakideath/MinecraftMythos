@@ -1,14 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.170-26.2-shield-death-recovery/baritone-fabric-1.17.170%2B26.2-shield-death-recovery.jar",
-  "version": "1.17.170+26.2-shield-death-recovery",
-  "sha256": "3a00dbdb0710461ba0ed9c79c4d36e63de6308eb4743a0b9b5c687716ba888d3",
-  "title": "\u76fe\u9632\u5fa1\u3068\u6b7b\u4ea1\u5730\u70b9\u56de\u53ce\u306e\u5f37\u5316",
-  "summary": "\u76fe\u3092\u6575\u65b9\u5411\u3078\u5411\u3051\u7d9a\u3051\u308b\u9632\u5fa1\u3001\u5f13\u30fb\u30c9\u30e9\u30a6\u30f3\u30c9\u30fb\u6c34\u4e2d\u6226\u95d8\u3001\u6b7b\u4ea1\u5730\u70b9\u306e\u5468\u56de\u56de\u53ce\u3001\u81ea\u52d5\u66f4\u65b0\u8868\u793a\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.171-26.2-shield-eat-timing/baritone-fabric-1.17.171%2B26.2-shield-eat-timing.jar",
+  "version": "1.17.171+26.2-shield-eat-timing",
+  "sha256": "69d164210d91934d59dc9dfd2b925755a2e7ce5d399f16a3a41bdbebcf01a956",
+  "title": "盾防御と食事入力の競合修正",
+  "summary": "食事中は盾が右クリックを奪い続けないようにし、矢や近接攻撃の直前だけ盾を構えるように調整しました。",
   "changes": [
-    "\u76fe\u6301\u3061\u6642\u306b\u5f13\u30fb\u6295\u5c04\u7269\u30fb\u80cc\u5f8c\u304b\u3089\u306e\u653b\u6483\u3078\u3088\u308a\u65e9\u304f\u5411\u304d\u76f4\u3063\u3066\u9632\u5fa1\u3057\u307e\u3059\u3002",
-    "\u6c34\u4e2d\u3084\u5e30\u5b85\u30fb\u6574\u5730\u30fb\u88dc\u5145\u4e2d\u306e\u653b\u6483\u8005\u691c\u77e5\u3092\u5f37\u5316\u3057\u3001\u30c9\u30e9\u30a6\u30f3\u30c9\u3084\u30b9\u30b1\u30eb\u30c8\u30f3\u3078\u306e\u53cd\u5fdc\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002",
-    "\u6b7b\u4ea1\u5f8c\u306b\u6b7b\u4ea1\u5730\u70b9\u3078\u623b\u308a\u3001\u5468\u8fba\u3092\u5de1\u56de\u3057\u3066\u843d\u3068\u3057\u305f\u30a2\u30a4\u30c6\u30e0\u3092\u56de\u53ce\u3059\u308b\u51e6\u7406\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002",
-    "\u66f4\u65b0\u901a\u77e5\u3068manifest\u306e\u6587\u5b57\u5316\u3051\u3092\u4fee\u6b63\u3057\u3001\u8d77\u52d5\u6642\u306e\u81ea\u52d5\u66f4\u65b0\u3067\u5168\u30e6\u30fc\u30b6\u30fc\u306b\u914d\u4fe1\u3055\u308c\u308b\u3088\u3046\u306b\u3057\u307e\u3057\u305f\u3002"
+    "食事中は通常の戦闘警戒で盾を構え続けず、食べ切る動作を優先します。",
+    "矢・トライデントなどの飛び道具が向かっている時、または近接攻撃を受ける直前だけ盾を割り込ませます。",
+    "盾入力が残って食事や右クリック操作を邪魔する状態を解除するようにしました。",
+    "食事中の武器持ち替えを抑え、回復と防御の入力競合を減らしました。"
   ]
 }
