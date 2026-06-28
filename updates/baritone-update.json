@@ -1,14 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.171-26.2-shield-eat-timing/baritone-fabric-1.17.171%2B26.2-shield-eat-timing.jar",
-  "version": "1.17.171+26.2-shield-eat-timing",
-  "sha256": "69d164210d91934d59dc9dfd2b925755a2e7ce5d399f16a3a41bdbebcf01a956",
-  "title": "盾防御と食事入力の競合修正",
-  "summary": "食事中は盾が右クリックを奪い続けないようにし、矢や近接攻撃の直前だけ盾を構えるように調整しました。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.173-26.2-ranged-shield-menu-bg/baritone-fabric-1.17.173%2B26.2-ranged-shield-menu-bg.jar",
+  "version": "1.17.173+26.2-ranged-shield-menu-bg",
+  "sha256": "a1cc879011b6c1cc7d24b7dff1d559f79e9483d8e6694d310712262e9d771e64",
+  "title": "射撃先読み盾防御とメニュー背景更新",
+  "summary": "弓やクロスボウなどの射撃を受ける前に盾を構えやすくし、メインメニュー背景を新しい添付素材へ更新しました。",
   "changes": [
-    "食事中は通常の戦闘警戒で盾を構え続けず、食べ切る動作を優先します。",
-    "矢・トライデントなどの飛び道具が向かっている時、または近接攻撃を受ける直前だけ盾を割り込ませます。",
-    "盾入力が残って食事や右クリック操作を邪魔する状態を解除するようにしました。",
-    "食事中の武器持ち替えを抑え、回復と防御の入力競合を減らしました。"
+    "弓・クロスボウ・トライデント持ちがこちらを狙った段階で盾を先出しします。",
+    "食事中でも射撃リスクが高い時は盾を優先します。",
+    "ピリジャーなど射撃武器持ちも遠距離脅威として扱います。",
+    "メインメニュー背景を新しい添付素材へ更新しました。"
   ]
 }
