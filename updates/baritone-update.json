@@ -1,14 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.173-26.2-ranged-shield-menu-bg/baritone-fabric-1.17.173%2B26.2-ranged-shield-menu-bg.jar",
-  "version": "1.17.173+26.2-ranged-shield-menu-bg",
-  "sha256": "a1cc879011b6c1cc7d24b7dff1d559f79e9483d8e6694d310712262e9d771e64",
-  "title": "射撃先読み盾防御とメニュー背景更新",
-  "summary": "弓やクロスボウなどの射撃を受ける前に盾を構えやすくし、メインメニュー背景を新しい添付素材へ更新しました。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.174-26.2-water-combat-bgm/baritone-fabric-1.17.174%2B26.2-water-combat-bgm.jar",
+  "version": "1.17.174+26.2-water-combat-bgm",
+  "sha256": "26c40798273f3493069e91196fb7ac886e3b43f8215c22fc2fdbaee6de562877",
+  "title": "水中戦闘優先度とメニューBGM更新",
+  "summary": "水中で近接Mobに殴られている時は、遠距離Mobへの盾構えより手前の敵処理を優先するようにしました。メインメニューBGMも差し替えています。",
   "changes": [
-    "弓・クロスボウ・トライデント持ちがこちらを狙った段階で盾を先出しします。",
-    "食事中でも射撃リスクが高い時は盾を優先します。",
-    "ピリジャーなど射撃武器持ちも遠距離脅威として扱います。",
-    "メインメニュー背景を新しい添付素材へ更新しました。"
+    "水中でゾンビやドラウンドなど近接Mobが近い時は、スケルトン優先の盾待機を中断して近接処理します。",
+    "盾を解除して攻撃する直前にターゲットへ向き直すようにし、空振りや横向き防御を減らしました。",
+    "水中採掘時にぷかぷか浮いて掘れない場面では、空気残量に余裕がある時だけしゃがみで姿勢を安定させます。",
+    "メインメニューBGMを確認済み音源に差し替えました。"
   ]
 }
