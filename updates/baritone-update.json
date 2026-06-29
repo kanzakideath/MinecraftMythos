@@ -1,14 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.178-26.2-sodium-native-crash-guard/baritone-fabric-1.17.178%2B26.2-sodium-native-crash-guard.jar",
-  "version": "1.17.178+26.2-sodium-native-crash-guard",
-  "sha256": "dbe5636ebfd9b84f8a1ddcd2daf744f6d2ab896f1d2a7f59f835baf2be0f6209",
-  "title": "Server join crash guard",
-  "summary": "Forces LWJGL allocator=system during Fabric preLaunch to avoid the Sodium jemalloc native crash during chunk rendering.",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.179-26.2-updater-downgrade-guard/baritone-fabric-1.17.179%2B26.2-updater-downgrade-guard.jar",
+  "version": "1.17.179+26.2-updater-downgrade-guard",
+  "sha256": "aff28d7b7d4aecebde7ef7474221c3079c4057a825b0aa698d5c2a123b967372",
+  "title": "Server join crash and updater guard",
+  "summary": "Keeps the Sodium native crash guard and prevents automatic updates from rolling back to older bundles.",
   "changes": [
-    "Added a Fabric preLaunch crash guard that sets org.lwjgl.system.allocator=system.",
-    "Targets the Sodium GLDrawBatch jemalloc native crash seen immediately after joining a server.",
+    "Forces LWJGL allocator=system during Fabric preLaunch to avoid the Sodium GLDrawBatch jemalloc native crash on server join.",
+    "Prevents the updater from applying an older manifest over a newer installed jar.",
     "Keeps the JourneyMap crash guard from 1.17.177.",
-    "Repaired the update manifest so automatic updates can parse valid JSON."
+    "Removes the risk of a stale pending update downgrading the local install."
   ]
 }
