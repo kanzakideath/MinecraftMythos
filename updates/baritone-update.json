@@ -1,13 +1,14 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.177-26.2-journeymap-crash-guard/baritone-fabric-1.17.177%2B26.2-journeymap-crash-guard.jar",
-  "version": "1.17.177+26.2-journeymap-crash-guard",
-  "sha256": "024327f98860e68516a8f64968acce0ccbf3014d0b7e418f4b0ee6cb5ba0f8d3",
-  "title": "JourneyMapクラッシュ回避アップデート",
-  "summary": "JourneyMapのミニマップMobアイコン読み込みで発生するSTB/jemallocネイティブクラッシュを回避します。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.178-26.2-sodium-native-crash-guard/baritone-fabric-1.17.178%2B26.2-sodium-native-crash-guard.jar",
+  "version": "1.17.178+26.2-sodium-native-crash-guard",
+  "sha256": "dbe5636ebfd9b84f8a1ddcd2daf744f6d2ab896f1d2a7f59f835baf2be0f6209",
+  "title": "Server join crash guard",
+  "summary": "Forces LWJGL allocator=system during Fabric preLaunch to avoid the Sodium jemalloc native crash during chunk rendering.",
   "changes": [
-    "JourneyMap 6.0.0-beta.90のMobアイコン画像読み込みをJava側の安全な読み込み経路へ差し替えました。",
-    "壊れた画像や読み込み失敗時は透明アイコンへフォールバックし、Minecraft本体を落とさないようにしました。",
-    "既存の全自動地ならしmod機能、メニューBGM固定、自動更新構成は維持しています。"
+    "Added a Fabric preLaunch crash guard that sets org.lwjgl.system.allocator=system.",
+    "Targets the Sodium GLDrawBatch jemalloc native crash seen immediately after joining a server.",
+    "Keeps the JourneyMap crash guard from 1.17.177.",
+    "Repaired the update manifest so automatic updates can parse valid JSON."
   ]
 }
