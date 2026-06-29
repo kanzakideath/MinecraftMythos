@@ -1,13 +1,13 @@
 {
   "fileName": "baritone-fabric-26.2-latest.jar",
-  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.176-26.2-locked-menu-bgm/baritone-fabric-1.17.176%2B26.2-locked-menu-bgm.jar",
-  "version": "1.17.176+26.2-locked-menu-bgm",
-  "sha256": "aba14d50cdc7665149029cce382cbc7e27e4e4bbbd8f2a3d24188fd4782b2d1a",
-  "title": "メニューBGM固定化アップデート",
-  "summary": "メインメニューBGMをmod内蔵音源の直接再生に切り替え、リソースパックやsounds.json差し替えで上書きされないようにしました。",
+  "url": "https://github.com/kanzakideath/MinecraftMythos/releases/download/baritone-1.17.177-26.2-journeymap-crash-guard/baritone-fabric-1.17.177%2B26.2-journeymap-crash-guard.jar",
+  "version": "1.17.177+26.2-journeymap-crash-guard",
+  "sha256": "024327f98860e68516a8f64968acce0ccbf3014d0b7e418f4b0ee6cb5ba0f8d3",
+  "title": "JourneyMapクラッシュ回避アップデート",
+  "summary": "JourneyMapのミニマップMobアイコン読み込みで発生するSTB/jemallocネイティブクラッシュを回避します。",
   "changes": [
-    "メインメニューBGMをjar内OGGのOpenAL直接再生に変更しました。",
-    "リソースパック側の同名サウンドやメニュー音源変更の影響を受けないようにしました。",
-    "従来のResourceManager/sounds.json経由のBGMフォールバックを削除しました。"
+    "JourneyMap 6.0.0-beta.90のMobアイコン画像読み込みをJava側の安全な読み込み経路へ差し替えました。",
+    "壊れた画像や読み込み失敗時は透明アイコンへフォールバックし、Minecraft本体を落とさないようにしました。",
+    "既存の全自動地ならしmod機能、メニューBGM固定、自動更新構成は維持しています。"
   ]
 }
